@@ -1,0 +1,2 @@
+# CDO
+Centrální databáze objektů
